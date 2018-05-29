@@ -1,0 +1,19 @@
+table {
+  border:2px solid red;
+  text-align: left;
+}
+h1{
+  color:maroon;
+}
+div{
+  font-family:Arial;
+}
+table, th, td {
+  border: 1px solid black;
+  font-family: Helvertica;
+}
+body{
+  background-image: url();
+  background-size: cover;
+
+}
